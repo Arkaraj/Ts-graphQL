@@ -31,3 +31,11 @@ $ tsc tsapp.ts tojsapp.js
 
 creates tojsapp.js file 
 
+For continuous changes and constant watching
+
+```sh
+$ tsc -w
+```
+
+kinda like nodemon for node
+
